@@ -1,5 +1,7 @@
 # React-Native Hangman Puzzle
-Hangman Puzzle with react native
+Hangman Puzzle with react native.
+
+<img src="https://github.com/anandmv/react-native-hangman/blob/master/docs/screen1.png" width="300" height="500"/>          <img src="https://github.com/anandmv/react-native-hangman/blob/master/docs/screen2.png" width="300" height="500"/>
 
 ## Table of Contents
 
